@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Elsie</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">I am curently a Sophomore in the Information Technology Industry with passionate about learning new languages and technologies. I am looking for a new opportunity as a Front-end developer to expand my knowledge and real combat experience.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
